@@ -74,3 +74,6 @@ The database supports decision-making and operations, ensuring each farm has the
 The ER diagram visually represents the relationships between entities and highlights the primary and foreign keys used to maintain database integrity.
 
 ![Screenshot 2024-11-14 at 16 14 12](https://github.com/user-attachments/assets/09014c21-3b20-460a-9f96-1b5778623a15)
+
+--
+
