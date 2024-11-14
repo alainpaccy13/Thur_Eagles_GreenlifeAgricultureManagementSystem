@@ -75,5 +75,5 @@ The ER diagram visually represents the relationships between entities and highli
 
 ![Screenshot 2024-11-14 at 16 14 12](https://github.com/user-attachments/assets/09014c21-3b20-460a-9f96-1b5778623a15)
 
---
+---
 
